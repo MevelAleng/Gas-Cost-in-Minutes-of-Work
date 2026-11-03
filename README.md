@@ -17,6 +17,12 @@ Instead of comparing prices, it divides the gas price by the average hourly wage
 
 ![HR Overview page](Images/hr-overview.png)
 
+## Screenshots
+
+![Executive Overview page](./Images/executive-overview.png)
+
+![HR Overview page](./Images/hr-overview.png)
+
 ## Where the data comes from
 - **Gas prices:** U.S. Energy Information Administration (EIA), weekly regular gasoline prices, averaged by year.
 - **Wages:** U.S. Bureau of Labor Statistics (BLS), Occupational Employment and Wage Statistics, for all workers and for hairdressers, hairstylists and cosmetologists.
