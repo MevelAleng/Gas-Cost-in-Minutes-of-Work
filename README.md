@@ -18,7 +18,6 @@ Instead of comparing prices, it divides the gas price by the average hourly wage
 ![HR Overview page](Images/hr-overview.png)
 
 ## Screenshots
-
 ![Executive Overview page](./Images/executive-overview.png)
 
 ![HR Overview page](./Images/hr-overview.png)
