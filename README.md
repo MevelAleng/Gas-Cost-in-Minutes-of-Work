@@ -13,9 +13,9 @@ Instead of comparing prices, it divides the gas price by the average hourly wage
 - **HR Overview:** *How does a stylist's pay hold up against gas costs?* Stylists earned about 63% of the average worker's wage in both 2006 and 2025, so they need roughly 8.8 minutes of work per gallon, against 5.5 for the average worker.
 
 ## Screenshots
-![Executive Overview page](images/executive-overview.png)
+![Executive Overview page](Images/executive-overview.png)
 
-![HR Overview page](images/hr-overview.png)
+![HR Overview page](Images/hr-overview.png)
 
 ## Where the data comes from
 - **Gas prices:** U.S. Energy Information Administration (EIA), weekly regular gasoline prices, averaged by year.
